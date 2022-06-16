@@ -2,7 +2,7 @@
 Play the iconic and classical short-term memory game The Simon Game in a new way!
 
 Check out the hosted version of the game here:
-<a href="" target="_blank">The Simon Game</a>
+<a href="https://archit1706.github.io/The-Simon-Game/" target="_blank">The Simon Game</a>
 
 <h4>Rules: </h4>
 <ol>
