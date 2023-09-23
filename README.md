@@ -13,3 +13,8 @@ Check out the hosted version of the game here:
   <li>If you fail to repeat a sequence exactly, then the game is over. Press any key to restart the game</li>
   <li>Have Fun!</li>
 </ol>
+
+Sample Screenshot
+
+![image](https://github.com/Archit1706/The-Simon-Game/assets/75872913/0a061aad-3d43-467a-b4e1-1c1162d40d11)
+
